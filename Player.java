@@ -3,6 +3,7 @@ package ca.bcit.comp1409.game;
 /**
  * @author Jaspreet
  * @version 1.1
+ * 
  */
 public class Player
 {
